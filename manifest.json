@@ -9,7 +9,6 @@
         "name": "plopoyop",
         "email": "plopoyop@gmail.com"
     },
-    "multi_instance": "true",
     "arguments": {
         "install" : [
             {
